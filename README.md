@@ -1,7 +1,7 @@
 ## Hey folks 🍒
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sepkey)](https://github.com/sepkey/github-readme-stats)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **sepkey/sepkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
