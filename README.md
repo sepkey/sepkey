@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🍒
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sepkey)](https://github.com/sepkey/github-readme-stats)
 
