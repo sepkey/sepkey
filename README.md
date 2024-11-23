@@ -2,10 +2,9 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sepkey)](https://github.com/sepkey/github-readme-stats)
 <!--
-**sepkey/sepkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![wakatime](https://wakatime.com/badge/user/da97fb70-7b3d-4752-919a-69e5b05e06b3.svg)](https://wakatime.com/@da97fb70-7b3d-4752-919a-69e5b05e06b3)
-
+[![wakatime](https://wakatime.com/badge/user/da97fb70-7b3d-4752-919a-69e5b05e06b3.svg)](https://wakatime.com/@da97fb70-7b3d-4752-919a-69e5b05e06b3)
 
 Here are some ideas to get you started:
 
