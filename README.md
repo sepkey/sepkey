@@ -4,6 +4,8 @@
 <!--
 **sepkey/sepkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![wakatime](https://wakatime.com/badge/user/da97fb70-7b3d-4752-919a-69e5b05e06b3.svg)](https://wakatime.com/@da97fb70-7b3d-4752-919a-69e5b05e06b3)
+
 
 Here are some ideas to get you started:
 
